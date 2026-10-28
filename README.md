@@ -5,6 +5,7 @@
 * **Date:** 20 November 2026
 * **Format:** Flexible Hybrid Format (Join us via Zoom or in-person)
 * **Language:** English (Sessions are recorded for later viewing)
+* **Registration:** https://indico.jinr.ru/event/6334
 
 ---
 
@@ -38,8 +39,6 @@
 Join our public community for social interactions and updates:  
 👉 **[VK Community: Molecular and Materials Modeling](https://vk.ru/molmat_modeling)**
 
-
-https://indico.jinr.ru/event/6334
 
 
 
