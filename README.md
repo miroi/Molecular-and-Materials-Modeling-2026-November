@@ -1,5 +1,5 @@
 
-# A One-Day Hybrid School on Molecular and Materials Modeling
+# The One-Day Hybrid School on Molecular and Materials Modeling
 
 ## Event Details
 * **Date:** 20 November 2026
